@@ -1,4 +1,6 @@
 import seaborn as sns
+import matplotlib.pyplot as plt
+from statannotations.Annotator import Annotator
 
 def label_cohort (row):
     if ((row['GP'] == 'GP_10') or (row['GP'] == 'GP_11') or (row['GP'] == 'GP_12')):
