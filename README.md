@@ -1,10 +1,12 @@
-# bone_remodeling_py
+# py_scripts
 
 Download github repository in desired folder by:
 ```
-  git clone https://github.com/atdinescu/bone_remodeling_py
-  cd bone_remodeling_py
+  git clone https://github.com/atdinescu/py_scripts
+  cd py_scripts
 ```
+
+For bone_remodeling_results.py
 Filetypes:
 * SED: strain energy density
 * SUMSED: Weighted sum of strain energy density on bone surface
